@@ -1,0 +1,63 @@
+Stand­plaats Zoetermeer
+Contractduur 2 jaar
+Uren per week 36
+Maand­salaris €3.815 - €5.671
+Salaris­niveau schaal 12
+Niveau Universitair Master
+
+Vakgebied ICT
+Reageren voor 12 maart Nog 4 dagen
+Vacaturenummer 2020/016
+Plaatsingsdatum 6 februari 2020
+Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+
+Functie­omschrijving
+
+Neem je graag de lead en wil je je kennis van het bouwen van applicaties op complexe netwerken gebruiken voor een doel waarbij het er echt om gaat? Kom dan bij de AIVD werken aan een multidisciplinair informatiesysteem voor terrorismebestrijding.
+
+Wat ga je doen?
+Bij de Contra-Terrorisme Infobox (CTI) werken tien Nederlandse opsporings-, inlichtingen- en veiligheidsdiensten samen bij de bestrijding van terrorisme. Om relevante informatie te kunnen uitwisselen ontwikkelen we een platform dat het crossmatchen, analyseren en slim combineren van gestructureerde en ongestructureerde data mogelijk maakt. Als lead-developer en scrum-master neem je een divers team van frontend-developers, backend-developers en system-engineers op sleeptouw en sta je garant voor de inhoud, kwaliteit en technische richting van jouw team. Je zorgt dat nieuwe features en functionaliteiten snel en goed opgeleverd worden en dat het beheer dik in orde is. We maken gebruik van deels commerciële of opensource-componenten — denk aan ElasticSearch, Graph databases, Java en React — en ontwikkelen de applicaties op basis van nieuwbouw of door aanpassing van bestaande functionaliteiten. Je werkt zelf actief mee en bent daarnaast een belangrijk aanspreekpunt voor alle partijen die bij dit platform betrokken zijn, zoals afnemers, de product-owner en een interne architect.
+
+Wat krijg je daarvoor terug?
+Een leidende en verantwoordelijke rol bij het ontwikkelen van een bijzonder informatiesysteem in een uniek samenwerkingsverband. Dankzij jouw werk hebben we zicht op netwerken en personen die mogelijk betrokken zijn bij terrorisme. Zo werk je aan de veiligheid van Nederland, de professionaliteit van je team en aan jezelf. Want behalve dat we samen veel leren, is jouw persoonlijke ontwikkeling voor ons ook een prio-1.
+Functie-eisen
+
+Je bent een enthousiaste en communicatief sterke techneut en wilt het beste uit je team halen. Met je brede technische basis kun je functionele eisen vertalen naar oplossingsrichtingen of architectuurkeuzes en ben je in staat om technologische beslissingen te nemen voor het team. Je beweegt gemakkelijk op verschillende organisatieniveaus en kunt goed samenwerken met interne en externe partijen. Daarnaast heb je:
+
+    een academisch werk- en denkniveau en minimaal een afgeronde hbo-opleiding;
+    meerdere jaren aantoonbare ervaring als lead-developer en kennis van de door ons gebruikte technologieën, zoals Java, ElasticSearch en REST microservices;
+    ervaring met architectuur, informatiebeveiliging en het ontwerpen van applicaties op complexe netwerktechnologieën.
+
+Arbeids­voorwaarden
+
+    Salaris­niveau schaal 12
+    Salaris­omschrijving
+
+    Het salaris is gebaseerd op een volledige werkweek. Daarnaast is aan het werken bij de AIVD een toeslag verbonden. Deze toeslag bedraagt bij indiensttreding € 224,- en loopt op tot maximaal € 703,- bruto per maand bij een volledige werkweek.
+    Maand­salaris Min €3.815 – Max. €5.671 (bruto)
+    Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+    Contract­duur 2 jaar
+    Minimaal aantal uren per week 36
+    Maximaal aantal uren per week 36
+
+Overige arbeids­voorwaarden
+
+Naast het salaris ontvang je een individueel keuzebudget (IKB). Het IKB bestaat uit geld (16,37% van je brutojaarsalaris) en tijd. Met het IKB maak jij de keuzes die bij jou passen en kun je een deel van je arbeidsvoorwaarden zelf samenstellen. Je kunt er bijvoorbeeld voor kiezen om een deel van je maandinkomen te laten uitbetalen wanneer jij dat wenst. Ook kun je dit budget omzetten in verlof en andersom of besteden aan fiscaalvriendelijke doelen. De Rijksoverheid hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer verschillende studiefaciliteiten, bedrijfsfitness, volledige vergoeding van je ov-reiskosten woon-werkverkeer en gedeeltelijk betaald ouderschapsverlof.
+Bijzonderheden
+
+    Solliciteren? Stuur ons een cv en sollicitatiebrief waaruit duidelijk en onderbouwd je motivatie blijkt om te willen werken bij de Algemene Inlichtingen- en Veiligheidsdienst (AIVD).
+    Na de sluitingsdatum is het niet meer mogelijk om te solliciteren.
+    Je sollicitatie wordt alleen in behandeling genomen wanneer je op de juiste manier, via de daarvoor bestemde sollicitatieknop reageert. Je uitgebreide motivatie is ingevuld en je cv is bijgesloten (in .doc-, .txt-, .rtf- of .docx-bestand).
+    We vragen je om niet met anderen te spreken over je sollicitatie bij de AIVD. Het kan je sollicitatie en eventuele loopbaan bij de AIVD schaden en je veiligheid in gevaar brengen.
+    Om veilig te solliciteren, raden we je sterk aan je online sollicitatie vanuit Nederland te versturen. Verblijf je in het buitenland, wacht dan tot je weer in Nederland bent.
+    Een veiligheidsonderzoek op niveau A, psychologische onderzoeken, het opvragen van referenties en online screening zijn onderdeel van de sollicitatieprocedure.
+    Om in aanmerking te komen voor een functie bij de AIVD moet je de Nederlandse nationaliteit hebben en (in principe) de afgelopen tien jaar in Nederland hebben gewoond. Ook aan je eventuele partner en andere mensen in je omgeving worden bepaalde eisen gesteld.
+    Houd er rekening mee dat de selectieprocedure, inclusief het veiligheidsonderzoek, ongeveer zes maanden in beslag kan nemen.
+    De AIVD gebruikt een digitale manier om te solliciteren. Houd er rekening mee dat het invullen van het sollicitatieformulier mogelijk technische problemen met zich meebrengt. Wacht dus niet tot het laatste moment met solliciteren.
+    Een psychologisch en een veiligheidsonderzoek maken deel uit van de selectieprocedure c.q. aanstellingsvoorwaarden.
+
+Meer over jouw toekomstige afdeling
+
+De Contra-Terrorisme Infobox (CTI) is een zelfstandig en uniek samenwerkingsverband waar alle relevante CT-informatie van de politie, Koninklijke Marechaussee, FIOD, Inspectie Sociale Zaken en Werkgelegenheid, de inlichtingen- en veiligheidsdiensten Algemene Inlichtingen- en Veiligheidsdienst en Militaire Inlichtingen- en Veiligheidsdienst, en de Financial Intelligence Unit - Nederland, Immigratie- en Naturalisatiedienst, Nationaal Coördinator Terrorismebestrijding en Veiligheid, en het Openbaar Ministerie bij elkaar wordt gebracht. De CTI wordt gevormd door gemotiveerde en gespecialiseerde medewerkers vanuit deze tien samenwerkende partners.
+
+De CTI levert een op de operatie gerichte actieve bijdrage aan de strijd tegen terrorisme door informatie over aangemelde CT-subjecten (personen in relatie tot terrorisme en/of radicalisering) vanuit de samenwerkende partners te verzamelen, multidisciplinair te analyseren en naar aanleiding van het resultaat de partners te adviseren.
