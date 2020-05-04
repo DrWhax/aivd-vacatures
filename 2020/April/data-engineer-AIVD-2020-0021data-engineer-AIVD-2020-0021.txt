@@ -1,0 +1,70 @@
+Stand­plaats Zoetermeer
+Werkplekken 2
+Contractduur 2 jaar
+Uren per week 36
+Maand­salaris €3.256 - €5.003
+Salaris­niveau schaal 11
+Niveau Universitair oude stijl, Bachelor - HBO
+
+Vakgebied ICT, Orde / vrede / veiligheid
+Reageren voor 31 mei
+Vacaturenummer 2020/055
+Plaatsingsdatum 30 april 2020
+Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+
+Functie­omschrijving
+
+Ben jij een slimme en innovatieve ontwikkelaar die big data kan omzetten in waardevolle gegevens? Wil je zorgen dat jouw inlichtingencollega’s over de juiste informatie kunnen beschikken en werken aan een veilig Nederland?
+
+Wat ga je doen?
+Bij het bureau ICT Tooling van de Joint Sigint Cyber Unit werken we met de nieuwste technieken aan het verzamelen van data in uiteenlopende formats. Deze data maken we gereed voor onderzoek met behulp van verschillende applicaties. Er komen doorlopend mogelijkheden bij, denk bijvoorbeeld aan de interceptie van glasvezel. Dat vraagt steeds meer van onze deskundigheid, maar ook van onze compliance.
+
+Met behulp van state-of-the-arttechnologieën analyseer je datastromen en zorg je dat nieuwe gegevens worden ingebed in ons datacluster. Je gooit weg wat we niet kunnen gebruiken conform het geïmplementeerde datareductiestelsel. Samen met de inlichtingenteams en je directe collega’s  van cryptologen en digitaal forensisch specialisten tot data-scientists en hackers  werk je aan bijzondere projecten en soms grensverleggende onderzoeken. Een buitengewone functie, waarbij je jouw kennis en creativiteit op een unieke manier kunt gebruiken en heel veel kunt leren.
+
+Wat krijg je terug?
+Je doet niet alleen interessant en belangrijk werk, maar je krijgt ook ruimte om te experimenteren. Heb je een nieuwe library gevonden of een idee voor aanpassing van onze netwerkstructuur? Overtuig je collega’s en ga aan de slag. De opleidings- en ontwikkelmogelijkheden zijn bij ons meer dan uitstekend en we stimuleren je om daar optimaal gebruik van te maken. Goed voor jouw ontwikkeling, maar ook goed voor de veiligheid van Nederland.
+
+Is je nieuwsgierigheid gewekt? Solliciteer dan op de functie van data-engineer of neem contact op. Dan vertellen we je nog veel meer.
+
+Functie-eisen
+
+Je beschikt over de juiste combinatie van verantwoordelijkheidsgevoel en resultaatgerichtheid om de mogelijkheden die er zijn doelgericht en binnen de grenzen van de wet te benutten. Je hebt een eigen visie, maar staat open voor ideeën en werkt graag samen aan innovaties. Daarnaast:
+
+    heb je een afgeronde opleiding op minimaal bachelorniveau, bijvoorbeeld op het gebied van informatica;
+    ben je bekend met programmeertalen als Java, Python of Scala;
+    heb je ervaring met versiebeheer in Git;
+    ben je gewend om te werken in Linux-omgevingen;
+    heb je ervaring met het maken van microservices met frameworks zoals Spring Boot;
+    heb je bij voorkeur ervaring met een big data framework zoals Hadoop of Spark.
+
+Arbeids­voorwaarden
+
+    Salaris­niveau schaal 11
+    Salaris­omschrijving
+
+    Het salaris is gebaseerd op een volledige werkweek. Daarnaast is aan het werken bij de AIVD een toeslag verbonden. Deze toeslag bedraagt bij indiensttreding € 219,- en loopt op tot maximaal € 667,- bruto per maand bij een volledige werkweek.
+    Maand­salaris Min €3.256  Max. €5.003 (bruto)
+    Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+    Contract­duur 2 jaar
+    Minimaal aantal uren per week 36
+    Maximaal aantal uren per week 36
+
+Overige arbeids­voorwaarden
+
+Naast het salaris ontvang je een individueel keuzebudget (IKB). Het IKB bestaat uit geld (16,37% van je brutojaarsalaris) en tijd. Met het IKB maak jij de keuzes die bij jou passen en kun je een deel van je arbeidsvoorwaarden zelf samenstellen. Je kunt er bijvoorbeeld voor kiezen om een deel van je maandinkomen te laten uitbetalen wanneer jij dat wenst. Ook kun je dit budget omzetten in verlof en andersom of besteden aan fiscaalvriendelijke doelen. De Rijksoverheid hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer verschillende studiefaciliteiten, bedrijfsfitness, volledige vergoeding van je ov-reiskosten woon-werkverkeer en gedeeltelijk betaald ouderschapsverlof.
+Bijzonderheden
+
+    Solliciteren? Stuur ons een cv en sollicitatiebrief waaruit duidelijk en onderbouwd je motivatie blijkt om te willen werken bij de Algemene Inlichtingen- en Veiligheidsdienst (AIVD).
+    Na de sluitingsdatum is het niet meer mogelijk om te solliciteren.
+    Je sollicitatie wordt alleen in behandeling genomen wanneer je op de juiste manier, via de daarvoor bestemde sollicitatieknop reageert. Je uitgebreide motivatie is ingevuld en je cv is bijgesloten (in .doc-, .txt-, .rtf- of .docx-bestand).
+    We vragen je om niet met anderen te spreken over je sollicitatie bij de AIVD. Het kan je sollicitatie en eventuele loopbaan bij de AIVD schaden en je veiligheid in gevaar brengen.
+    Om veilig te solliciteren, raden we je sterk aan je online sollicitatie vanuit Nederland te versturen. Verblijf je in het buitenland, wacht dan tot je weer in Nederland bent.
+    Een veiligheidsonderzoek op niveau A, psychologische onderzoeken, het opvragen van referenties en online screening zijn onderdeel van de sollicitatieprocedure.
+    Om in aanmerking te komen voor een functie bij de AIVD moet je de Nederlandse nationaliteit hebben en (in principe) de afgelopen tien jaar in Nederland hebben gewoond. Ook aan je eventuele partner en andere mensen in je omgeving worden bepaalde eisen gesteld.
+    Houd er rekening mee dat de selectieprocedure, inclusief het veiligheidsonderzoek, ongeveer zes maanden in beslag kan nemen.
+    De AIVD gebruikt een digitale manier om te solliciteren. Houd er rekening mee dat het invullen van het sollicitatieformulier mogelijk technische problemen met zich meebrengt. Wacht dus niet tot het laatste moment met solliciteren.
+
+Meer over jouw toekomstige afdeling
+
+Het bureau ICT Tooling van de Joint Sigint Cyber Unit levert onder andere hoogwaardige technische capaciteit voor het verwerken van complexe data uit diverse bronnen. Daarmee is het een onmisbare schakel bij het omzetten van sigint- en cyberdata naar bruikbare informatie voor de inlichtingenteams van zowel de Algemene als de Militaire Inlichtingen- en Veiligheidsdienst. In Nederland en (ver) daarbuiten.
+
