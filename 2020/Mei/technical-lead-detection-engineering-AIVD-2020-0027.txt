@@ -1,0 +1,69 @@
+Stand­plaats Zoetermeer
+Contractduur 2 jaar
+Uren per week 32 - 36
+Maand­salaris €4.252 - €6.374
+Salaris­niveau schaal 13
+Niveau WO bachelor
+
+Vakgebied ICT
+Reageren voor 26 juli
+Vacaturenummer 2020/071
+Plaatsingsdatum 28 mei 2020
+Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+
+Functie­omschrijving
+
+Heb jij een frisse blik op detection engineering en threat hunting, neem je graag het voortouw en steek je graag de handen uit de mouwen? Dan ben jij bij de Algemene Inlichtingen- en Veiligheidsdienst (AIVD) als technical lead detection engineering bij het Security Operations Centre (SOC) helemaal op je plek.
+
+Wat ga je doen?
+Bij het SOC van de AIVD kijken we niet de hele dag naar schermen. Onze werkwijze bestaat uit het gezamenlijk formuleren van hypothesen, definiëren van aanvalsvectoren en bedenken van manieren waarmee we de bijbehorende fenomenen op onze netwerken en systemen kunnen detecteren.
+
+We zien onszelf als een datagedreven security-engineeringsteam en handelen op basis van cyber threat intelligence, informatie afkomstig uit open en gerubriceerde bronnen. Als technical lead werk je samen met je team aan effectieve detectie use-case lifecyclemanagement. Je bedenkt hoe use-cases kunnen worden aangescherpt en hoe we zo min mogelijk false positives krijgen. Met threat hunting breng je in kaart waar mogelijke gaten in de monitoring zitten en denk je mee over manieren om onze netwerken en systemen (nog beter) te beschermen. Samen met je collega-leads draag je bij aan de visie en richting van het SOC en vertaal je deze in een roadmap en epics.
+
+Wat krijg je daarvoor terug?
+
+Vrijheid en ruimte om de richting uit te zetten, projecten te initiëren (en af te ronden), mee te denken over uiteenlopende issues en jezelf verder te ontwikkelen. We ontwerpen en ontwikkelen grotendeels zelf onze platforms (op basis van Elasticsearch) en tooling (veelal in Python of Go), en werken veel met Docker/Kubernetes. We proberen alles te automatiseren. Tijd (en energie) die we overhouden besteden we graag aan research naar innovatieve technieken. Technieken die niet alleen onze systemen, maar uiteindelijk heel Nederland beschermen.
+
+Functie-eisen
+
+Je wilt jouw uitgebreide kennis van het internet, computernetwerken en -beveiliging graag gebruiken voor de veiligheid van Nederland. Dit doe je op een creatieve en overtuigende manier, evenzeer gericht op een goede samenwerking als op het behalen van resultaat. Je bent nieuwsgierig en wilt jezelf blijven ontwikkelen.
+
+Verder:
+
+    werk en denk je op academisch niveau;
+    heb je ervaring binnen een securityteam, met name in detection engineering en/of threat hunting;
+    ben je behoorlijk handig met de door ons gebruikte tools;
+    heb je (enige) ervaring in een visie- of richtingbepalende rol.
+
+Arbeids­voorwaarden
+
+    Salaris­niveau schaal 13
+    Salaris­omschrijving
+
+    Het salaris is gebaseerd op een volledige werkweek. Daarnaast is aan het werken bij de AIVD een toeslag verbonden. Deze toeslag bedraagt bij indiensttreding € 221,- en loopt op tot maximaal € 672,- bruto per maand bij een volledige werkweek.
+    Maand­salaris Min €4.252  Max. €6.374 (bruto)
+    Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+    Contract­duur 2 jaar
+    Minimaal aantal uren per week 32
+    Maximaal aantal uren per week 36
+
+Overige arbeids­voorwaarden
+
+Naast het salaris ontvang je een individueel keuzebudget (IKB). Het IKB bestaat uit geld (16,37% van je brutojaarsalaris) en tijd. Met het IKB maak jij de keuzes die bij jou passen en kun je een deel van je arbeidsvoorwaarden zelf samenstellen. Je kunt er bijvoorbeeld voor kiezen om een deel van je maandinkomen te laten uitbetalen wanneer jij dat wenst. Ook kun je dit budget omzetten in verlof en andersom of besteden aan fiscaalvriendelijke doelen. De Rijksoverheid hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer verschillende studiefaciliteiten, bedrijfsfitness, volledige vergoeding van je ov-reiskosten woon-werkverkeer en gedeeltelijk betaald ouderschapsverlof.
+
+Bijzonderheden
+
+    Solliciteren? Stuur ons een cv en sollicitatiebrief waaruit duidelijk en onderbouwd je motivatie blijkt om te willen werken bij de Algemene Inlichtingen- en Veiligheidsdienst (AIVD).
+    Na de sluitingsdatum is het niet meer mogelijk om te solliciteren.
+    Je sollicitatie wordt alleen in behandeling genomen wanneer je op de juiste manier, via de daarvoor bestemde sollicitatieknop reageert. Je uitgebreide motivatie is ingevuld en je cv is bijgesloten (in .doc-, .txt-, .rtf- of .docx-bestand).
+    We vragen je om niet met anderen te spreken over je sollicitatie bij de AIVD. Het kan je sollicitatie en eventuele loopbaan bij de AIVD schaden en je veiligheid in gevaar brengen.
+    Om veilig te solliciteren, raden we je sterk aan je online sollicitatie vanuit Nederland te versturen. Verblijf je in het buitenland, wacht dan tot je weer in Nederland bent.
+    Een veiligheidsonderzoek op niveau A, psychologische onderzoeken, het opvragen van referenties en online screening zijn onderdeel van de sollicitatieprocedure.
+    Om in aanmerking te komen voor een functie bij de AIVD moet je de Nederlandse nationaliteit hebben en (in principe) de afgelopen tien jaar in Nederland hebben gewoond. Ook aan je eventuele partner en andere mensen in je omgeving worden bepaalde eisen gesteld.
+    Houd er rekening mee dat de selectieprocedure, inclusief het veiligheidsonderzoek, ongeveer zes maanden in beslag kan nemen.
+    De AIVD gebruikt een digitale manier om te solliciteren. Houd er rekening mee dat het invullen van het sollicitatieformulier mogelijk technische problemen met zich meebrengt. Wacht dus niet tot het laatste moment met solliciteren.
+
+Meer over jouw toekomstige afdeling
+
+Het Security Operations Center beschermt de ICT-omgeving van de Algemene Inlichtingen- en Veiligheidsdienst, zowel proactief als reactief, tegen aanvallen en indringers. We reageren tijdig en adequaat op security-incidenten en jagen actief op aanvallers en kwetsbaarheden op onze eigen netwerken.
+
