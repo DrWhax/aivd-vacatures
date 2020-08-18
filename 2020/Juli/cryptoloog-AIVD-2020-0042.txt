@@ -1,0 +1,68 @@
+Stand­plaats Zoetermeer
+Contractduur 2 jaar
+Uren per week 36
+Maand­salaris €3.815 - €5.671
+Salaris­niveau schaal 12
+Niveau Universitair oude stijl, Universitair Master
+
+Vakgebied ICT, Orde / vrede / veiligheid
+Reageren voor 7 september
+Vacaturenummer 2020/086
+Plaatsingsdatum 28 juli 2020
+Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+
+Functie­omschrijving
+
+Weet jij alles van post-quantum cryptoprimitieven, symmetrische en asymmetrische cryptografie, hashfuncties, en public key infrastructures? Wil jij werken aan de informatiebeveiliging van systemen van de Rijksoverheid en vitale sectoren? Dan zoeken we jou als cryptoloog bij de AIVD.
+
+Wat ga je doen?
+
+Het Nationaal Bureau voor Verbindingsbeveiliging (NBV) van de AIVD is de gesprekspartner van de Rijksoverheid en vitale bedrijven over de bescherming van systemen. Hierbij zijn vertrouwelijkheid, integriteit en continuïteit van groot belang. Wij onderhouden een portfolio van geëvalueerde beveiligingsproducten die  vaak onder onze begeleiding  ontwikkeld worden. Naast het geven van adviezen over informatie- en systeembeveiliging nemen we initiatieven om demonstrators van ICT-oplossingen te (laten) maken en zo een R&D traject voor een veilige oplossing in gang te zetten.
+
+De experts van het NBV zijn bij al deze ontwikkelingen betrokken. Je krijgt als cryptoloog dus een divers werkpakket. Het team waarin je terechtkomt,  houdt zich met name bezig met mobiele communicatie en data at rest. Je evalueert crypto-implementaties en begeleidt de ontwikkeling van nieuwe producten. Je doet en begeleidt research om technologische ontwikkelingen zoals quantumcomputers en andere uitdagingen het hoofd te kunnen bieden. Je geeft adviezen over public key infrastructure en beoordeelt sleutelmanagement en protocollen. Verder geef je presentaties aan collega's en samenwerkingspartners. In EU en NAVO verband vertegenwoordig je Nederland in technische discussies over cryptokeuzes.
+
+Wat krijg je ervoor terug?
+Je werkt met een groep van gelijkgestemden aan de rand van de technologische mogelijkheden, mogelijkheden die jullie als één van de eersten zien. Jij bepaalt, samen met teamgenoten die expert zijn op het gebied van hardware-, software-, of netwerkbeveiliging, of (commerciële) producten de toets der kritiek op het gebied van cybersecurity kunnen doorstaan. Omdat we op het hoogste niveau acteren, krijg je veel gelegenheid om jouw kennis op peil te houden en uit te breiden, bijvoorbeeld door conferenties in binnen- en buitenland bij te wonen. Zo kun je in jouw vakgebied echt de diepte ingaan.
+
+Functie-eisen
+
+Jij bent een gedreven en nieuwsgierige cryptoloog die nooit uitgeleerd is. Goed voorbereid en weloverwogen ga je gestructureerd te werk. Dat maakt dat jouw conclusies en adviezen goed onderbouwd, aansprekend en overtuigend overkomen, waarbij je gevoel hebt voor de complexe en politiek-bestuurlijke context waarin we werken. Verder heb je:
+
+    een afgeronde academische opleiding, zoals wiskunde met als afstudeerrichting cryptologie en informatiebeveiliging;
+    actuele kennis van randomgeneratie, sleutelmanagement, beveiligingsprotocollen voor bijvoorbeeld IP of telefonie en praktische aanvallen zoals side-channel-attacks en memory leaks;
+    enkele jaren relevante werkervaring;
+    affiniteit met software-, hardware- of netwerksecurity.
+
+Arbeids­voorwaarden
+
+    Salaris­niveau schaal 12
+    Salaris­omschrijving
+
+    Het salaris is gebaseerd op een volledige werkweek. Daarnaast is aan het werken bij de AIVD een toeslag verbonden. Deze toeslag bedraagt bij indiensttreding € 224,28 en loopt op tot maximaal € 703,42 bruto per maand bij een volledige werkweek.
+    Maand­salaris Min €3.815  Max. €5.671 (bruto)
+    Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+    Contract­duur 2 jaar
+    Minimaal aantal uren per week 36
+    Maximaal aantal uren per week 36
+
+Overige arbeids­voorwaarden
+
+Naast het salaris ontvang je een individueel keuzebudget (IKB). Het IKB bestaat uit geld (16,37% van je brutojaarsalaris) en tijd. Met het IKB maak jij de keuzes die bij jou passen en kun je een deel van je arbeidsvoorwaarden zelf samenstellen. Je kunt er bijvoorbeeld voor kiezen om een deel van je maandinkomen te laten uitbetalen wanneer jij dat wenst. Ook kun je dit budget omzetten in verlof en andersom of besteden aan fiscaalvriendelijke doelen. De Rijksoverheid hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer verschillende studiefaciliteiten, bedrijfsfitness, volledige vergoeding van je ov-reiskosten woon-werkverkeer en gedeeltelijk betaald ouderschapsverlof.
+
+Bijzonderheden
+
+    Solliciteren? Stuur ons een cv en sollicitatiebrief waaruit duidelijk en onderbouwd je motivatie blijkt om te willen werken bij de Algemene Inlichtingen- en Veiligheidsdienst (AIVD).
+    Na de sluitingsdatum is het niet meer mogelijk om te solliciteren.
+    Je sollicitatie wordt alleen in behandeling genomen wanneer je op de juiste manier, via de daarvoor bestemde sollicitatieknop reageert. Je uitgebreide motivatie is ingevuld en je cv is bijgesloten.
+    We vragen je om niet met anderen te spreken over je sollicitatie bij de AIVD. Het kan je sollicitatie en eventuele loopbaan bij de AIVD schaden en je veiligheid in gevaar brengen.
+    Om veilig te solliciteren, raden we je sterk aan je online sollicitatie vanuit Nederland te versturen. Verblijf je in het buitenland, wacht dan tot je weer in Nederland bent.
+    Een veiligheidsonderzoek op niveau A, psychologische onderzoeken, het opvragen van referenties en online screening zijn onderdeel van de sollicitatieprocedure.
+    Om in aanmerking te komen voor een functie bij de AIVD moet je de Nederlandse nationaliteit hebben en (in principe) de afgelopen tien jaar in Nederland hebben gewoond. Ook aan je eventuele partner en andere mensen in je omgeving worden bepaalde eisen gesteld.
+    Houd er rekening mee dat de selectieprocedure, inclusief het veiligheidsonderzoek, ongeveer zes maanden in beslag kan nemen.
+    De AIVD gebruikt een digitale manier om te solliciteren. Houd er rekening mee dat het invullen van het sollicitatieformulier mogelijk technische problemen met zich meebrengt. Wacht dus niet tot het laatste moment met solliciteren.
+
+Meer over jouw toekomstige afdeling
+
+Het Nationaal Bureau Verbindingsbeveiliging (NBV) levert onafhankelijk advies en concrete producten rondom informatiebeveiliging aan de Rijksoverheid en vitale onderdelen van de samenleving. Met inzet van kennis, expertise en een uitgebreid (inter)nationaal netwerk signaleren we technologische ontwikkelingen, doen we grondig onderzoek en leveren we exclusieve beveiligingsproducten. Het NBV vertegenwoordigt tevens het Nederlandse belang in nationale en internationale overleggen over technische informatiebeveiligingsvraagstukken.
+
+De afdelingen Ontwikkeling en Evaluatie zijn gericht op het realiseren van een productportfolio voor de betrouwbare beveiliging van bijzondere of staatsgeheime informatie en vitale processen. De afdelingen stimuleren en begeleiden productontwikkeling en certificering, voeren evaluaties uit en doen aan lifecycle management van de producten. Er wordt research gedaan om goed zicht te houden op technologische ontwikkelingen, zowel offensief als defensief. Ook begeleiden de teams certificeringstrajecten (CC, BSPA) van producten. De teams zijn samengesteld met alle benodigde disciplines; hardware-, software-, netwerk- , crypto-, CC-experts, productmanagers en projectleiders. Domeinen zijn onder andere data-in-transit, data-at-rest, detectie & respons en mobiel.

@@ -1,0 +1,67 @@
+Stand­plaats Zoetermeer
+Contractduur 1 jaar
+Uren per week 32 - 36
+Maand­salaris €2.737 - €4.400
+Salaris­niveau schaal 10
+Niveau Bachelor - HBO
+
+Vakgebied ICT
+Reageren voor 30 september
+Vacaturenummer 2020/137
+Plaatsingsdatum 12 augustus 2020
+Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+
+Functie­omschrijving
+
+Heb jij je ooit afgevraagd hoe we bij de AIVD omgaan met cloudontwikkelingen, containermanagement met Docker en Kubernetes of andere vormen van innovatieve technologie? Als jij ervaring hebt met Automation- en Linux-toepassingen, kun je het zelf komen ervaren. En meebouwen aan een veilig Nederland.
+
+Wat ga je doen?
+
+De AIVD maakt net als veel andere organisaties graag gebruik van moderne technologie. Wij werken met diverse Linux-distributies, waaronder Red Hat, Debian en Ubuntu. We managen applicaties met Ansible en passen containeroplossingen toe, zoals Docker en Kubernetes. Waarin we wél verschillen: bij ons vind je alles intern terug. Dat maakt jouw functie als Linux-specialist dus extra interessant. Je wordt verantwoordelijk voor het beheer van onze fysieke en virtuele IT-infrastructuur en de big-dataclusters. Continuïteit en beschikbaarheid staan voorop; dus je monitort de prestaties en analyseert problemen om deze vervolgens op te lossen. Daarnaast werk je samen met specialisten in de diverse agile-teams aan doorontwikkeling. Omdat je te maken hebt met vertrouwelijke informatie, neem je bij alles wat je doet de juiste maatregelen om securityrisico’s af te dekken. Als jij je thuis voelt op het snel vernieuwende terrein van infrastructurele voorzieningen, ontwikkelingen in jouw vakgebied op de voet volgt en je graag nieuwe ideeën implementeert, is dit voor jou een bijzondere kans!
+
+Wat krijg je ervoor terug?          
+We vinden het belangrijk om inhoudelijk leidend te blijven in de snel veranderende wereld van de techniek. Daarom bieden wij veel mogelijkheden om ervaring op te doen met nieuwe technologieën, bijvoorbeeld door deel te nemen aan innovatieve projecten. Ook krijg je een behoorlijke mate van vrijheid en genoeg kansen om relevante opleidingen te volgen en om congressen en seminars te bezoeken. Zo blijf je zelf ook vooroplopen.
+
+Functie-eisen
+
+Je weet wat er komt kijken bij het beheer en de doorontwikkeling van complexe IT-infrastructuren (denk aan omgevingen met minimaal 100 servers), bijvoorbeeld met Ansible. Je hebt affiniteit met shellscripting en Python-scripts. Jouw technische achtergrond combineer je met communicatieve skills. Jij kunt goed communiceren en samenwerken met collega’s uit verschillende disciplines. Ook plannen en organiseren gaat je goed af. Daarnaast:
+
+    heb je een hbo-niveau en een diploma van een technische opleiding;
+    beschik je over aantoonbare ervaring met Linux en aanverwante programmatuur;
+    heb je kennis van opensource, shellscripting en webtechnologie.
+
+Arbeids­voorwaarden
+
+    Salaris­niveau schaal 10
+    Salaris­omschrijving
+
+    Het salaris is gebaseerd op een volledige werkweek. Daarnaast is aan het werken bij de AIVD een toeslag verbonden. Deze toeslag bedraagt bij indiensttreding € 190,- en loopt op tot maximaal € 603,- bruto per maand bij een volledige werkweek.
+    Maand­salaris Min €2.737  Max. €4.400 (bruto)
+    Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+    Contract­duur 1 jaar
+    Minimaal aantal uren per week 32
+    Maximaal aantal uren per week 36
+
+Overige arbeids­voorwaarden
+
+Naast je salaris en de toelage bouw je 16,37% van je jaarsalaris op als individueel keuzebudget (IKB). Hierin zijn onder andere je vakantiegeld en eindejaarsuitkering opgenomen.
+
+Per jaar krijg je bij een fulltime dienstverband ook 144 verlofuren en minimaal 21,6 flexibele (bovenwettelijke) uren. Je kunt je IKB gebruiken voor het bij- of verkopen van uren of het geld besteden aan bijvoorbeeld een nieuwe fiets. Je bouwt pensioen op bij het ABP en we hebben goede regelingen voor ouderschapsverlof, studiefaciliteiten en vergoedingen woon-werkverkeer.
+
+Bijzonderheden
+
+    Solliciteren? Stuur ons een cv en sollicitatiebrief waaruit duidelijk en onderbouwd je motivatie blijkt om te willen werken bij de AIVD.
+    Na de sluitingsdatum is het niet meer mogelijk om te solliciteren.
+    Je sollicitatie wordt alleen in behandeling genomen wanneer je op de juiste manier, via de daarvoor bestemde sollicitatieknop reageert. Je uitgebreide motivatie is ingevuld en je cv is bijgesloten.
+    We vragen je om niet met anderen te spreken over je sollicitatie bij de AIVD. Het kan je sollicitatie en eventuele loopbaan bij de AIVD schaden en je veiligheid in gevaar brengen.
+    Om veilig te solliciteren, raden we je sterk aan je online sollicitatie vanuit Nederland te versturen. Verblijf je in het buitenland, wacht dan tot je weer in Nederland bent.
+    Een veiligheidsonderzoek op niveau A, psychologische onderzoeken, het opvragen van referenties en online screening zijn onderdeel van de sollicitatieprocedure.
+    Om in aanmerking te komen voor een functie bij de AIVD moet je de Nederlandse nationaliteit hebben en (in principe) de afgelopen tien jaar in Nederland hebben gewoond. Ook aan je eventuele partner en andere mensen in je omgeving worden bepaalde eisen gesteld.
+    Houd er rekening mee dat de selectieprocedure, inclusief het veiligheidsonderzoek, ongeveer zes maanden in beslag kan nemen.
+    De AIVD gebruikt een digitale manier om te solliciteren. Houd er rekening mee dat het invullen van het sollicitatieformulier mogelijk technische problemen met zich meebrengt. Wacht dus niet tot het laatste moment met solliciteren.
+
+Meer over jouw toekomstige afdeling
+
+De Unit ICT zorgt voor duurzame en betrouwbare ICT-oplossingen en optimale ondersteuning van alle processen, zowel voor de primaire taak van de AIVD, als voor de bedrijfsvoering.
+
+Het team Cloud Infra van de afdeling Servers en Storage houdt zich bezig met het beheer van en innovatie op het gebied van private cloud. Dit omvat een groot en dynamisch landschap van (virtuele) servers (Linux/Windows), multi-tiered storage-oplossingen en diverse services.
