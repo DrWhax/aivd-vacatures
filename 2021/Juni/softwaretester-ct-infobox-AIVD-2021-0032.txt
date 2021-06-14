@@ -1,0 +1,70 @@
+    Stand­plaats Zoetermeer
+    Contractduur 1 jaar
+    Uren per week 32 - 36
+    Maand­salaris €2.756 - €4.430
+    Salaris­niveau schaal 10
+    Niveau Bachelor - HBO
+
+    Vakgebied ICT
+    Reageren voor 18 juli
+    Vacaturenummer 2021/093
+    Plaatsingsdatum 14 juni 2021
+    Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+
+Functie­omschrijving
+
+Een multidisciplinair informatiesysteem testen om terrorisme in kaart te brengen en te bestrijden: gaan jouw vingers al jeuken? Kom dan bij de AIVD jouw testervaring op dit unieke systeem toepassen in de scrumteams van een bijzonder samenwerkingsverband.
+
+Wat ga je doen?
+
+Bij de Contra-Terrorisme Infobox (CTI) werken tien Nederlandse opsporings-, inlichtingen- en veiligheidsdiensten samen aan de bestrijding van terrorisme. Om relevante informatie te kunnen uitwisselen, zijn we een platform (hoofdzakelijk ontwikkeld in Java in combinatie met ElasticSearch) aan het ontwikkelen dat het crossmatchen, analyseren en slim combineren van data mogelijk maakt.
+
+Als tester in één van onze scrumteams ga jij ervoor zorgen dat de applicaties doen wat ze moeten doen. Dit doe je in samenwerking met de product owner, ontwikkelaars en eindgebruikers. Je gebruikt je creatieve brein om te garanderen dat applicaties goed werken en snel inzetbaar zijn. Hierdoor voorkomen we verrassingen en blijft de opbrengst van data zo hoog mogelijk. Tijdens de stand ups bespreek je de status van tests, zodat we de snelheid erin houden en onze oplossingen bij de wensen van de opdrachtgevers blijven aansluiten. Je bouwt zelf testprotocollen op basis van de tools die we in huis hebben, zoals Selenium of Cucumber. Beheer vind je geen probleem, want als het werk repetitief wordt, automatiseer je het gewoon. Dankzij jou hebben en houden we goed zicht op netwerken en personen die mogelijk betrokken zijn bij terrorisme en een dreiging kunnen vormen voor de nationale veiligheid.
+
+Wat krijg je daarvoor terug?
+
+Als lid van de scrumteams van dit unieke samenwerkingsverband werk je in een collegiale, ongedwongen sfeer aan een bijzonder informatiesysteem. Daarnaast luisteren wij graag naar jouw kennis en ervaring op het gebied van diverse tools. Zo werk je aan de veiligheid van Nederland én aan je eigen professionaliteit. Behalve dat we samen veel leren, is jouw persoonlijke ontwikkeling voor ons ook een prio-1.
+
+Functie-eisen
+
+Je bent accuraat ingesteld en houdt ervan om informatie perfect op orde te hebben. Jouw kritische blik zorgt ervoor dat je niet automatisch genoegen neemt met wat in het ontwerp, de user story of in de acceptatiecriteria beschreven staat. Je denkt in termen van de beste mogelijke oplossing en laat tijdens iedere sprint je doorzettingsvermogen zien. Als zaken net even anders gaan dan gedacht beweeg je makkelijk mee. Jouw communicatieve vaardigheden zijn uitstekend ontwikkeld, waardoor je makkelijk met partners binnen en buiten de organisatie samenwerkt.
+
+Daarnaast heb je:
+
+    hbo-niveau en een brede ICT-kennis;
+    meerdere jaren ervaring met geautomatiseerde testscripts;
+    meerdere jaren ervaring met diverse testmethodieken en -technieken, bijvoorbeeld Selenium, Protractor, Cypress en/of Cucumber;
+    kennis van Scrum/DevOps werkwijzen;
+    gecertificeerd in TMap of ISTQB of vergelijkbaar.
+
+Arbeids­voorwaarden
+
+    Salaris­niveau schaal 10
+    Salaris­omschrijving
+
+    Het salaris is gebaseerd op een volledige werkweek. Daarnaast is aan het werken bij de AIVD een toeslag verbonden. Deze toeslag bedraagt bij indiensttreding € 191,- en loopt op tot maximaal € 608,- bruto per maand bij een volledige werkweek.
+    Maand­salaris Min €2.756 – Max. €4.430 (bruto)
+    Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+    Contract­duur 1 jaar
+    Minimaal aantal uren per week 32
+    Maximaal aantal uren per week 36
+
+Overige arbeids­voorwaarden
+
+Naast het salaris ontvang je een Individueel Keuzebudget (IKB). Het IKB bestaat uit geld (16,37% van je bruto jaarsalaris) en tijd. Met het IKB maak jij de keuzes die bij jou passen en kun je een deel van je arbeidsvoorwaarden zelf samenstellen. Je kunt er bijvoorbeeld voor kiezen om een deel van je maandinkomen te laten uitbetalen wanneer jij dat wenst. Ook kun je dit budget omzetten in verlof en andersom of besteden aan fiscaal vriendelijke doelen. De Rijksoverheid hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer verschillende studiefaciliteiten, bedrijfsfitness, volledige vergoeding van je OV-reiskosten woon-werkverkeer en gedeeltelijk betaald ouderschapsverlof.
+
+Bijzonderheden
+
+    Solliciteren? Stuur ons een cv en sollicitatiebrief waaruit duidelijk en onderbouwd je motivatie blijkt om te willen werken bij de AIVD.
+    Na de sluitingsdatum is het niet meer mogelijk om te solliciteren.
+    Je sollicitatie wordt alleen in behandeling genomen wanneer je op de juiste manier, via de daarvoor bestemde sollicitatie-knop reageert. Je uitgebreide motivatie is ingevuld en je cv is bijgesloten.
+    We vragen je om niet met anderen te spreken over je sollicitatie bij de AIVD. Het kan je sollicitatie en eventuele loopbaan bij de AIVD schaden en je veiligheid in gevaar brengen.
+    Om veilig te solliciteren, raden we je sterk aan je online sollicitatie vanuit Nederland te versturen. Verblijf je in het buitenland, wacht dan tot je weer in Nederland bent.
+    Een veiligheidsonderzoek op niveau A, psychologische onderzoeken, het opvragen van referenties en online screening zijn daarom onderdeel van de sollicitatieprocedure.
+    Om in aanmerking te komen voor een functie bij de AIVD moet je de Nederlandse nationaliteit hebben en (in principe) de afgelopen 10 jaar in Nederland hebben gewoond. Ook aan je eventuele partner en andere mensen in je omgeving worden bepaalde eisen gesteld.
+    Houd er rekening mee dat de selectieprocedure, inclusief het veiligheidsonderzoek, ongeveer 6 maanden in beslag kan nemen.
+    De AIVD gebruikt een digitale manier om te solliciteren. Houd er rekening mee dat het invullen van het sollicitatieformulier mogelijk technische problemen met zich meebrengt. Wacht dus niet tot het laatste moment met solliciteren.
+
+Meer over jouw toekomstige afdeling
+
+Bij de Contra-terrorisme Infobox werken tien landelijke opsporings- en veiligheidsorganisaties samen aan het bestrijden van terrorisme. Door informatie te verzamelen en ter beschikking te stellen ontstaat zicht op personen of netwerken die mogelijk bij terrorisme betrokken zijn. De medewerkers zijn scherp, coöperatief en toegewijd. Zo leveren ze een belangrijke bijdrage aan het bestrijden van terrorisme én aan de veiligheid van Nederland.
