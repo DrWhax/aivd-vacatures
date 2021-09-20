@@ -1,0 +1,103 @@
+Stand­plaats Zoetermeer
+Contractduur 1 jaar
+Uren per week 32 - 36
+Maand­salaris €3.279 - €5.039
+Salaris­niveau schaal 11
+Niveau HBO oude stijl
+
+Vakgebied ICT
+Reageren voor 31 oktober
+Vacaturenummer 2021/144
+Plaatsingsdatum 7 september 2021
+Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+
+Functie­omschrijving
+
+Word jij enthousiast van de nieuwste database-innovaties? Hebben Oracle,
+PostgreSQL en/of MySQL geen geheimen meer voor jou? Kom de AIVD helpen om onze
+techniek en dienstverlening altijd op het hoogste niveau aan te bieden en zo
+Nederland veilig te houden.
+
+Wat ga je doen?
+
+Dankzij jouw werkzaamheden als Database Administrator (DBA’er) hebben jouw
+collega’s blijvend toegang tot alle belangrijke data die we nodig hebben voor
+een goede uitvoering van ons belangrijke werk.
+
+Met je team zorg je voor de continuïteit en hoge beschikbaarheid van een groot
+en dynamisch database-landschap op virtuele servers (Linux en Windows). Samen
+met je collega’s ben je verantwoordelijk voor de inrichting, doorontwikkeling en
+het beheer van onze database-infrastructuur, als onderdeel van belangrijke
+applicaties die onder andere gebruikt worden voor ons inlichtingenwerk. Omdat we
+werken met gerubriceerde informatie is goed en veilig beheer van de databases
+van essentieel belang in ons werk. Dit doe je uiteraard door de inzet van
+automation, met behulp van bijvoorbeeld Ansible. Dagelijks bekijk je de
+prestaties, analyseer je de storingen en problemen en los je deze op. Ook zet je
+je met regelmaat in om migraties en updates in goede banen te leiden.
+
+Bij de AIVD hebben we vernieuwing en verbetering hoog in het vaandel staan. Als
+DBA’er werk je aan fascinerende en complexe technische vraagstukken, en adviseer
+je over optimalisaties in het database landschap
+
+Wat krijg je ervoor terug?  Je gaat werken in een professioneel en enthousiast
+team. Natuurlijk werk je ook nauw samen met andere teams, zoals Storage en
+Virtualisatie. Doordat je in een klein en hecht team werkt, kun en mag je veel
+verschillende taken oppakken, waarbij je jouw expertise kunt laten zien. We
+stimuleren jouw verdere ontwikkeling, onder andere om ervoor te zorgen dat je
+breed inzetbaar bent (en blijft). Hier krijg je ook alle kansen voor. Denk aan:
+opleidingen en ‘coaching on-the-job’, zowel op technisch als persoonlijk vlak.
+Goed voor jouw persoonlijke groei, maar ook goed voor de veiligheid van
+Nederland.  Functie-eisen
+
+Je bent leergierig en volgt IT-ontwikkelingen op de voet. Kansen zie je direct
+en voert deze gemakkelijk door in je dagelijkse taken. Omdat je veel zaken zult
+afstemmen met gebruikers, vinden we het belangrijk dat je communicatief sterk en
+een goede teamspeler bent. Lopen de zaken net even anders dan gepland of
+fluctueert de werkdruk? Dan houd jij je hoofd koel.
+
+Daarnaast:
+
+* heb je HBO denk- en werkniveau en ben je bij voorkeur in het bezit van een diploma van een technische of IT-opleiding;
+* weet je veel van vergelijkbare relationele databases, waaronder Oracle, MS SQL server, PostgreSQL en/of MySQL;
+* is ervaring met Linux een vereiste en is kennis van Microsoft Windows mooi meegenomen;
+* heb je interesse of enige kennis/ervaring met non-relationele databases, zoals MongoDB;
+* is ervaring met automation tools, zoals Ansible, een pre.
+
+Arbeids­voorwaarden
+
+* Salaris­niveau schaal 11
+
+Salaris­omschrijving
+
+* Het salaris is gebaseerd op een volledige werkweek. Daarnaast is aan het werken bij de AIVD een toeslag verbonden. Deze toeslag bedraagt bij indiensttreding € 221,- en loopt op tot maximaal € 671,- bruto per maand bij een volledige werkweek.
+* Maand­salaris Min €3.279 – Max. €5.039 (bruto)
+* Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+* Contract­duur 1 jaar
+* Minimaal aantal uren per week 32
+* Maximaal aantal uren per week 36
+
+Overige arbeids­voorwaarden
+
+Naast het salaris ontvang je een Individueel Keuzebudget (IKB). Het IKB bestaat
+uit geld (16,37% van je bruo jaarsalaris) en tijd. Met het IKB maak jij de
+keuzes die bij jou passen en kun je een deel van je arbeidsvoorwaarden zelf
+samenstellen. Je kunt er bijvoorbeeld voor kiezen om een deel van je
+maandinkomen te laten uitbetalen wanneer jij dat wenst. Ook kun je dit budget
+omzetten in verlof en andersom of besteden aan fiscaal vriendelijke doelen. De
+Rijksoverheid hecht sterk aan persoonlijke groei en loopbaanontwikkeling en
+biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden
+behoren onder meer verschillende studiefaciliteiten, bedrijfsfitness, volledige
+vergoeding van je OV-reiskosten woon-werkverkeer en gedeeltelijk betaald
+ouderschapsverlof.
+
+Bijzonderheden
+
+* Solliciteren? Stuur ons een cv en sollicitatiebrief waaruit duidelijk en onderbouwd je motivatie blijkt om te willen werken bij de AIVD.
+* Na de sluitingsdatum is het niet meer mogelijk om te solliciteren.
+* Je sollicitatie wordt alleen in behandeling genomen wanneer je op de juiste manier, via de daarvoor bestemde sollicitatie-knop reageert. Je uitgebreide motivatie is ingevuld en je cv is bijgesloten.
+* We vragen je om niet met anderen te spreken over je sollicitatie bij de AIVD. Het kan je sollicitatie en eventuele loopbaan bij de AIVD schaden en je veiligheid in gevaar brengen.
+* Om veilig te solliciteren, raden we je sterk aan je online sollicitatie vanuit Nederland te versturen. Verblijf je in het buitenland, wacht dan tot je weer in Nederland bent.
+* Een veiligheidsonderzoek op niveau A, psychologische onderzoeken, het opvragen van referenties en online screening zijn daarom onderdeel van de sollicitatieprocedure.
+* Om in aanmerking te komen voor een functie bij de AIVD moet je de Nederlandse nationaliteit hebben en (in principe) de afgelopen 10 jaar in Nederland hebben gewoond. Ook aan je eventuele partner en andere mensen in je omgeving worden bepaalde eisen gesteld.
+* Houd er rekening mee dat de selectieprocedure, inclusief het veiligheidsonderzoek, ongeveer 6 maanden in beslag kan nemen.
+* De AIVD gebruikt een digitale manier om te solliciteren. Houd er rekening mee dat het invullen van het sollicitatieformulier mogelijk technische problemen met zich meebrengt. Wacht dus niet tot het laatste moment met solliciteren.

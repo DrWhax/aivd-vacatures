@@ -1,0 +1,109 @@
+Stand­plaats Zoetermeer
+Contractduur 1 jaar
+Uren per week 36
+Maand­salaris €3.842 - €5.710
+Salaris­niveau schaal 12
+Niveau Universitair Master, Bachelor - HBO
+
+Vakgebied ICT
+Reageren voor 28 september Nog 8 dagen
+Vacaturenummer 2021/145
+Plaatsingsdatum 27 augustus 2021
+Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+
+Functie­omschrijving
+
+Lekken van informatie naar de pers of naar kwaadwillende statelijke actoren
+slaat het fundament onder ons werk vandaan en levert risico’s op voor de
+veiligheid van Nederland. Met protective monitoring zorg jij dat we kunnen
+ingrijpen voordat het verkeerd gaat.
+
+Wat ga je doen?
+
+Bij hun werk hebben onze medewerkers toegang tot – vaak staatsgeheime –
+informatie en bijzondere bedrijfsmiddelen. Onachtzaamheid of bewust gebruik van
+deze informatie en middelen voor ongeautoriseerde doeleinden kan groot gevaar
+opleveren voor onze veiligheid of onze economie. Als data scientist gebruik je
+je kennis van datawetenschap en je programmeervaardigheden voor het verder
+ontwikkelen van ons systeem voor protective monitoring. Je verzamelt en
+combineert gebruiks- en gebruikersinformatie, analyseert loginformatie, doet
+onderzoek naar digitale veiligheidsincidenten, ontdekt trends en ontwikkelt op
+basis daarvan algoritmen en applicaties die ons helpen om ‘aan de voorkant’ van
+gebeurtenissen te komen. Je adviseert collega’s over het veilige gebruik van
+onze systemen en zorgt dat ze zich bewust zijn van de consequenties van mogelijk
+risicovol gedrag.
+
+Wat krijg je daarvoor terug?
+
+Jouw bijdrage is essentieel voor het vertrouwen in ons werk, maar je hebt vooral
+een interessante functie op het snijvlak van technische mogelijkheden en
+menselijk gedrag, binnen ethische grenzen en met een goed evenwicht tussen
+privacy en beheersing. In het kleine team van datawetenschappers en beheerders
+werk je aan toepassingen van zeer hoog niveau en tegelijk aan de veiligheid van
+Nederland.  Functie-eisen
+
+Jij vindt het razend interessant om met data te werken, wat je met jouw sterke
+analytische vermogens ook goed afgaat. Ook heb je inzicht in menselijk gedrag en
+kennis van methoden en technieken voor eXplainable AI en eerlijke algoritmen.
+Gecombineerd met jouw tact en adviesvaardigheden lever je een zichtbare en
+concrete bijdrage aan effectief en gebalanceerd insider threat management.
+Daarnaast:
+
+* heb je een academisch werk- en denkniveau en een bèta-achtergrond met kennis van wiskunde, statistiek, modellen en kunstmatige intelligentie;
+* beschik je over ruime kennis van data science en datamanagement;
+* heb je minstens 2 jaar ervaring met data en security;
+* heb je aantoonbare ervaring met programmeren in Python en andere scripttalen.
+
+Arbeids­voorwaarden
+
+ Salaris­niveau schaal 12
+
+Salaris­omschrijving
+
+* Het salaris is gebaseerd op een volledige werkweek. Daarnaast is aan het werken bij de AIVD een toeslag verbonden. Deze toeslag bedraagt bij indiensttreding € 225,- en loopt op tot maximaal € 708,- bruto per maand bij een volledige werkweek.
+* Maand­salaris Min €3.842 – Max. €5.710 (bruto)
+* Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+* Contract­duur 1 jaar
+* Minimaal aantal uren per week 36
+* Maximaal aantal uren per week 36
+
+Overige arbeids­voorwaarden
+
+Naast het salaris ontvang je een Individueel Keuzebudget (IKB). Het IKB bestaat
+uit geld (16,37% van je bruto jaarsalaris) en tijd. Met het IKB maak jij de
+keuzes die bij jou passen en kun je een deel van je arbeidsvoorwaarden zelf
+samenstellen. Je kunt er bijvoorbeeld voor kiezen om een deel van je
+maandinkomen te laten uitbetalen wanneer jij dat wenst. Ook kun je dit budget
+omzetten in verlof en andersom of besteden aan fiscaal vriendelijke doelen. De
+Rijksoverheid hecht sterk aan persoonlijke groei en loopbaanontwikkeling en
+biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden
+behoren onder meer verschillende studiefaciliteiten, bedrijfsfitness, volledige
+vergoeding van je OV-reiskosten woon-werkverkeer en gedeeltelijk betaald
+ouderschapsverlof.
+
+Bijzonderheden
+
+* Solliciteren? Stuur ons een cv en sollicitatiebrief waaruit duidelijk en onderbouwd je motivatie blijkt om te willen werken bij de AIVD.
+* Een assessment kan onderdeel uitmaken van de sollicitatieprocedure.
+* De gesprekken vinden o.a. plaats op 29 september en 12 oktober.
+* Na de sluitingsdatum is het niet meer mogelijk om te solliciteren.
+* Je sollicitatie wordt alleen in behandeling genomen wanneer je op de juiste manier, via de daarvoor bestemde sollicitatie-knop reageert. Je uitgebreide motivatie is ingevuld en je cv is bijgesloten.
+* We vragen je om niet met anderen te spreken over je sollicitatie bij de AIVD. Het kan je sollicitatie en eventuele loopbaan bij de AIVD schaden en je veiligheid in gevaar brengen.
+* Om veilig te solliciteren, raden we je sterk aan je online sollicitatie vanuit Nederland te versturen. Verblijf je in het buitenland, wacht dan tot je weer in Nederland bent.
+* Een veiligheidsonderzoek op niveau A, psychologische onderzoeken, het opvragen van referenties en online screening zijn daarom onderdeel van de sollicitatieprocedure.
+* Om in aanmerking te komen voor een functie bij de AIVD moet je de Nederlandse nationaliteit hebben en (in principe) de afgelopen 10 jaar in Nederland hebben gewoond. Ook aan je eventuele partner en andere mensen in je omgeving worden bepaalde eisen gesteld.
+* Houd er rekening mee dat de selectieprocedure, inclusief het veiligheidsonderzoek, ongeveer 6 maanden in beslag kan nemen.
+* De AIVD gebruikt een digitale manier om te solliciteren. Houd er rekening mee dat het invullen van het sollicitatieformulier mogelijk technische problemen met zich meebrengt. Wacht dus niet tot het laatste moment met solliciteren.
+
+Meer over jouw toekomstige afdeling
+
+De Centrale staf ondersteunt het management van de AIVD met advies, diensten en
+door het zichtbaar maken van de toegevoegde waarde van het werk bij politiek,
+bestuur en maatschappij.
+
+De BVA is verantwoordelijk voor de interne beveiliging van de organisatie, zowel
+personeel, fysiek als digitaal. Zij werken aan bewustzijn van risico’s,
+stimuleren veilig gedrag en monitoren het gebruik van de vele en vaak cruciale
+informatiesystemen. De medewerkers zijn proactief, kritisch en toegewijd. Zo
+leveren ze een belangrijke bijdrage aan de betrouwbaarheid van ons werk én aan
+de veiligheid van Nederland.
