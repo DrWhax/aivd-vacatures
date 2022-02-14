@@ -1,0 +1,116 @@
+Stand­plaats Zoetermeer
+Werkplekken 6
+Contractduur 1 jaar
+Uren per week 32 - 36
+Maand­salaris €3.344 - €5.139
+Salaris­niveau schaal 11
+Niveau Bachelor - HBO
+
+Vakgebied ICT
+Reageren voor 2 maart
+Vacaturenummer 2022/019
+Plaatsingsdatum 26 januari 2022
+Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+
+Functie­omschrijving 
+
+Informatie is het belangrijkste kapitaal van de AIVD: jij
+zorgt dat deze informatie op de juiste manier wordt verzameld en verwerkt. Hoe
+je dat doet? Door topapplicaties te bouwen waarmee je de targets van onze
+onderzoeken altijd een stap voor blijft.
+
+Wat ga je doen?  Wat weten we van onze targets? Hoe communiceren ze met elkaar?
+Wat zijn hun relaties? Voorbeelden van informatie die we (na toestemming vooraf
+van de toezichthouder) verzamelen om zicht te krijgen op personen die mogelijk
+een dreiging vormen voor onze democratische rechtsorde. Zulke inlichtingen zijn
+onmisbaar voor onze analisten en inlichtingenofficieren. Het is essentieel dat
+de informatie in goede structuren en systemen wordt opgeslagen, altijd terug te
+vinden is en doorzoekbaar blijft.
+
+Jouw werk als softwareontwikkelaar bij de afdeling Vastlegging van onze Unit
+ICT is hierbij van groot belang. Met moderne technologieën als Docker,
+Kubernetes, GraphQL, ElasticSearch en nog veel meer bouw je applicaties waarmee
+de groeiende hoeveelheid data uit uiteenlopende bronnen kan worden verzameld en
+verwerkt. In samenwerking met collega’s van de DevOps-teams ga je daarbij zo
+creatief mogelijk te werk. Je volgt innovaties op de voet en kunt niet wachten
+om nieuwe technieken toe te passen. Door deel te nemen aan expertisegroepen
+denk je bovendien team overstijgend mee over ontwikkelingen, kansen en
+oplossingen.
+
+Wat krijg je daarvoor terug?  Een gave functie waarin je unieke applicaties
+ontwikkelt en de balans zoekt tussen technische mogelijkheden, creatieve
+oplossingen en wettelijke kaders omtrent privacy. Als dienst moeten we slimmer
+zijn dan onze targets en hen altijd een stap voor blijven. Daarom dagen we
+elkaar doorlopend uit om de beste oplossingen te vinden. Reken maar dat je daar
+veel van leert. Bovendien weet je dat je met jouw werk een essentiële bijdrage
+levert aan de veiligheid van Nederland.
+
+En niet onbelangrijk, met je werk-privébalans zit het wel goed. Als fullstack
+developer bij de AIVD kun je niet thuiswerken en werk je (veilig) op kantoor.
+Waar je real life samenwerkt met je collega’s. En als je thuis bent zit je
+werkdag er ook op.  Functie-eisen
+
+Jij denkt in oplossingen! Daarvoor zet je je kennis, creativiteit,
+flexibiliteit en vermogen tot samenwerken graag in. Samen met product owners,
+architecten, en jouw team streef je naar hoge kwaliteit en grote
+betrouwbaarheid. Security en zorgvuldigheid staan daarbij altijd voorop.
+
+Daarnaast:
+
+    beschik je over minimaal een hbo werk- en denkniveau;
+    weet je veel van C#, Docker, Kubernetes, Elastic, GraphQL en Linux of wil je je kennis daarvan vergroten;
+    database kennis is een pre;
+    kun je werken met front end frameworks en libraries.
+
+Arbeids­voorwaarden
+
+    Salaris­niveau schaal 11
+    Salaris­omschrijving
+
+    Het salaris is gebaseerd op een volledige werkweek. Daarnaast is aan het werken bij de AIVD een toeslag verbonden. Deze toeslag bedraagt bij indiensttreding € 225,- en loopt op tot maximaal € 685,- bruto per maand bij een volledige werkweek.
+    Maand­salaris Min €3.344 – Max. €5.139 (bruto)
+    Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+    Contract­duur 1 jaar
+    Minimaal aantal uren per week 32
+    Maximaal aantal uren per week 36
+
+Overige arbeids­voorwaarden
+
+Naast het salaris ontvang je een Individueel Keuzebudget (IKB). Het IKB bestaat
+uit geld (16,37% van je bruto jaarsalaris) en tijd. Met het IKB maak jij de
+keuzes die bij jou passen en kun je een deel van je arbeidsvoorwaarden zelf
+samenstellen. Je kunt er bijvoorbeeld voor kiezen om een deel van je
+maandinkomen te laten uitbetalen wanneer jij dat wenst. Ook kun je dit budget
+omzetten in verlof en andersom of besteden aan fiscaal vriendelijke doelen. De
+Rijksoverheid hecht sterk aan persoonlijke groei en loopbaanontwikkeling en
+biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden
+behoren onder meer verschillende studiefaciliteiten, bedrijfsfitness, volledige
+vergoeding van je OV-reiskosten woon-werkverkeer en gedeeltelijk betaald
+ouderschapsverlof.
+
+Bijzonderheden
+
+    Solliciteren? Stuur ons een cv en sollicitatiebrief waaruit duidelijk en onderbouwd je motivatie blijkt om te willen werken bij de AIVD.
+    Na de sluitingsdatum is het niet meer mogelijk om te solliciteren.
+    Je sollicitatie wordt alleen in behandeling genomen wanneer je op de juiste manier, via de daarvoor bestemde sollicitatie-knop reageert. Je uitgebreide motivatie is ingevuld en je cv is bijgesloten.
+    We vragen je om niet met anderen te spreken over je sollicitatie bij de AIVD. Het kan je sollicitatie en eventuele loopbaan bij de AIVD schaden en je veiligheid in gevaar brengen.
+    Om veilig te solliciteren, raden we je sterk aan je online sollicitatie vanuit Nederland te versturen. Verblijf je in het buitenland, wacht dan tot je weer in Nederland bent.
+    Een veiligheidsonderzoek op niveau A, psychologische onderzoeken, het opvragen van referenties en online screening zijn daarom onderdeel van de sollicitatieprocedure.
+    Om in aanmerking te komen voor een functie bij de AIVD moet je de Nederlandse nationaliteit hebben en (in principe) de afgelopen 10 jaar in Nederland hebben gewoond. Ook aan je eventuele partner en andere mensen in je omgeving worden bepaalde eisen gesteld.
+    Houd er rekening mee dat de selectieprocedure, inclusief het veiligheidsonderzoek, ongeveer 6 maanden in beslag kan nemen.
+    De AIVD gebruikt een digitale manier om te solliciteren. Houd er rekening mee dat het invullen van het sollicitatieformulier mogelijk technische problemen met zich meebrengt. Wacht dus niet tot het laatste moment met solliciteren.
+
+Meer over jouw toekomstige afdeling
+
+De Unit ICT levert duurzame en betrouwbare ICT-oplossingen en optimale
+ondersteuning van alle processen, zowel voor de primaire taak van de AIVD, als
+voor de bedrijfsvoering.
+
+Het serviceteam Vastlegging werkt aan en met ons belangrijkste kapitaal:
+informatie. Opgeslagen in systemen en alleen voor de juiste personen
+toegankelijk gemaakt. De eisen die daaraan gesteld worden zijn hoog: van
+uitstekende beveiliging tot efficiënte presentatie en natuurlijk zorgvuldige
+autorisaties. De medewerkers zijn slim, vernieuwend en toegewijd. Zo leveren ze
+een belangrijke bijdrage aan het fundament van ons werk én aan de veiligheid
+van Nederland.
+
